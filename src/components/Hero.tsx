@@ -19,8 +19,8 @@ const Hero = () => {
       {/* Content */}
       <div className="relative z-10 text-center max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <h1 className="font-serif text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-light tracking-wide text-black mb-4 sm:mb-6 animate-fade-in">
-          Bespoke
-          <span className="block font-medium">Fashion Design</span>
+          Ahmad ibrahim
+          <span className="block font-medium">jjcijieojfi</span>
         </h1>
         <p className="text-base sm:text-lg md:text-xl text-gray-800 mb-6 sm:mb-8 max-w-2xl mx-auto leading-relaxed animate-slide-up px-2">
           Elevate your style with our personalized fashion design services. 
